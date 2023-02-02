@@ -1,3 +1,4 @@
+# createMessage class
 # frozen_string_literal: true
 
 class CreateMessages < ActiveRecord::Migration[7.0]
